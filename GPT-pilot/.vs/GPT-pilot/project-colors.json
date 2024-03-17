@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "16b84206-9368-41fc-92f1-27071a3b2877": {
+      "ProjectGuid": "16b84206-9368-41fc-92f1-27071a3b2877",
+      "DisplayName": "GPT-pilot",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}
